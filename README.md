@@ -50,16 +50,16 @@ This project analyzes retail sales data using Power BI and provides insights int
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](Dashboard%20Screenshots/Executive_Summary.png)
+![Executive Summary](Dashboard_Screenshots/Executive_Summary.png)
 
 ### Detailed Analysis
-![Detailed Analysis](Dashboard%20Screenshots/Detailed_Analysis.png)
+![Detailed Analysis](Dashboard_Screenshots/Detailed_Analysis.png)
 
 ### Business Insights
-![Business Insights](Dashboard%20Screenshots/Business_Insights.png)
+![Business Insights](Dashboard_Screenshots/Business_Insights.png)
 
 ### Sales Forecast
-![Sales Forecast](Dashboard%20Screenshots/Forecast.png)
+![Sales Forecast](Dashboard_Screenshots/Forecast.png)
 
 ### Customer Analysis
-![Customer Analysis](Dashboard%20Screenshots/Customer_Analysis.png)
+![Customer Analysis](Dashboard_Screenshots/Customer_Analysis.png)
