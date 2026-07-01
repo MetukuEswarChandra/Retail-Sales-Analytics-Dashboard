@@ -1,5 +1,11 @@
 # Retail Sales Analytics Dashboard
 
+Interactive Retail Sales Analytics Dashboard built using Power BI to analyze sales performance, customer behavior, profitability, and forecast future sales trends.
+
+**Author:** Metuku Eswar Chandra  
+**Institute:** National Institute of Technology Raipur  
+**Branch:** Electronics and Communication Engineering
+
 ## Project Overview
 This project analyzes retail sales data using Power BI and provides insights into:
 
@@ -41,7 +47,19 @@ This project analyzes retail sales data using Power BI and provides insights int
 - Sales increased significantly during October, November, and December.
 - Standard Class shipping contributed the highest sales.
 
-## Author
-Metuku Eswar Chandra
-B.Tech, Electronics and Communication Engineering
-NIT Raipur
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](Dashboard%20Screenshots/Executive_Summary.png)
+
+### Detailed Analysis
+![Detailed Analysis](Dashboard%20Screenshots/Detailed_Analysis.png)
+
+### Business Insights
+![Business Insights](Dashboard%20Screenshots/Business_Insights.png)
+
+### Sales Forecast
+![Sales Forecast](Dashboard%20Screenshots/Forecast.png)
+
+### Customer Analysis
+![Customer Analysis](Dashboard%20Screenshots/Customer_Analysis.png)
